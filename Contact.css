@@ -1,0 +1,61 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 562px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Fugaz One";
+  font-weight: 700;
+  margin: 57px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 317px;
+  margin: 15px 255px 0 315px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-family: "Fugaz One";
+  letter-spacing: 0px;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 48px;
+  min-height: 16px;
+  width: 106px;
+  min-width: 42px;
+  margin: 43px auto;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-1 {
+    margin-right: 155px;
+    margin-left: 215px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-form-1 {
+    margin-right: 45px;
+    margin-left: 105px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
